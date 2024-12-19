@@ -1,0 +1,1 @@
+# to checkout branch merge functionality
